@@ -1,0 +1,21 @@
+{
+    "collection/tasse.jpg": {
+        "nom": "tasse"
+    },
+    "collection/stylo.jpg": {
+        "nom": "stylo"
+    },
+    "collection/cuillere.jpg": {
+        "nom": "cuillere"
+    },
+    "collection/livre.jpg": {
+        "nom": "livre",
+        "confiance": 0.1
+    },
+    "collection/bouteille.jpg": {
+        "nom": "bouteille"
+    },
+    "collection/gomme.jpg": {
+        "nom": "gomme"
+    }
+}
