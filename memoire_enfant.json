@@ -17,5 +17,20 @@
     },
     "collection/gomme.jpg": {
         "nom": "gomme"
+    },
+    "collection/rose_fan\u00e9.jpg": {
+        "nom": "rose_fan\u00e9"
+    },
+    "collection/clavier.jpg": {
+        "nom": "clavier"
+    },
+    "collection/main.jpg": {
+        "nom": "main"
+    },
+    "collection/souris.jpg": {
+        "nom": "souris"
+    },
+    "collection/souris_.jpg": {
+        "nom": "souris_"
     }
 }

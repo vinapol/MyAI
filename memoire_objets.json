@@ -1,0 +1,32 @@
+{
+    "collection/clavier.jpg": {
+        "nom": "clavier"
+    },
+    "collection/claviet.jpg": {
+        "nom": "claviet"
+    },
+    "collection/souris.jpg": {
+        "nom": "souris"
+    },
+    "collection/micro.jpg": {
+        "nom": "micro"
+    },
+    "collection/bouteille.jpg": {
+        "nom": "bouteille"
+    },
+    "collection/ordinateur_portable.jpg": {
+        "nom": "ordinateur_portable"
+    },
+    "collection/ordinateur_fixe.jpg": {
+        "nom": "ordinateur_fixe"
+    },
+    "collection/fauteui_de_bureaux_.jpg": {
+        "nom": "fauteui_de_bureaux_"
+    },
+    "collection/bureau.jpg": {
+        "nom": "bureau"
+    },
+    "collection/chaise_en_bois.jpg": {
+        "nom": "chaise_en_bois"
+    }
+}
